@@ -22,5 +22,5 @@
 
 ### Integrantes
 
-Paola Castro
+Paola Castro M.
 
