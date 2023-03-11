@@ -20,7 +20,5 @@
   - Organizar los párrafos del cuento
  5. No olvides hacer commit, pull y push constantemente para tener los últimos cambios de tu equipo. El objetivo es que el cuento quede totalmente corregido con las tres tareas mencionadas anteriormente. Hands on!
 
-### Integrantes
 
-Paola Castro
 
